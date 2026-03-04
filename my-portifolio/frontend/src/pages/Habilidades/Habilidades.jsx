@@ -1,5 +1,42 @@
-export default function Habilidades (){
-    return (
-        <div> Pagina Habilidades</div>
-    )
+import styles from './Habilidades.module.css';
+import BackgroundCanvas from '../../components/BackgroundCanvas';
+
+
+export default function Habilidades() {
+  const skills = [
+    { nome: "TypeScript", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"},
+    { nome: "JavaScript", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"},
+    { nome: "NodeJs", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"},
+    { nome: "React", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"},
+    { nome: "Python", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"},
+    { nome: "Docker", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"},
+    { nome: "Git", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"},
+    { nome: "MongoDB", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"},
+    { nome: "HTML5", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"},
+    { nome: "CSS3", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"},
+  ];
+
+  return (
+    <section className={styles.habilidadesSection}>
+      <BackgroundCanvas />
+
+      <div className={styles.container}>
+        <h1 className={styles.title}>Habilidades</h1>
+        <p className={styles.subtitle}>
+          Veja um pouco mais sobre minhas habilidades e tecnologias 
+        </p>
+
+        <div className={styles.grid}>
+          {skills.map((skill, index) => (
+            <div key={index} className={styles.card}>
+              <div className={styles.iconWrapper}>
+                <img src={skill.icon} alt={skill.nome} />
+              </div>
+              <span>{skill.nome}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
 }

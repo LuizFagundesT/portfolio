@@ -1,0 +1,72 @@
+.habilidadesSection {
+  position: relative;
+  width: 100%;
+  min-height: calc(100vh - 80px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  text-align: center;
+  z-index: 2;
+  color: #ffffff;
+}
+
+.title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  margin-bottom: 3rem;
+  opacity: 0.8;
+}
+
+/* GRID DE CARDS */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 30px;
+}
+
+/* CARD */
+.card {
+  background-color: #1e1e1e;
+  padding: 30px 20px;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255,255,255,0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  background-color: #2a2a2a;
+  border: 1px solid #1ed760;
+}
+
+.iconWrapper {
+  background-color: #2c2c2c;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.iconWrapper img {
+  width: 40px;
+  height: 40px;
+}
+
+.card span {
+  font-weight: 600;
+  font-size: 1rem;
+}
