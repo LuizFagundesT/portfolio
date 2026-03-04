@@ -1,8 +1,11 @@
 import styles from './Habilidades.module.css';
 import BackgroundCanvas from '../../components/BackgroundCanvas';
+import { useTranslation } from "react-i18next";
 
 
 export default function Habilidades() {
+
+  const { t } = useTranslation();
   const skills = [
     { nome: "TypeScript", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"},
     { nome: "JavaScript", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"},
@@ -21,9 +24,9 @@ export default function Habilidades() {
       <BackgroundCanvas />
 
       <div className={styles.container}>
-        <h1 className={styles.title}>Habilidades</h1>
+        <h1 className={styles.title}>{t("skills.title")}</h1>
         <p className={styles.subtitle}>
-          Veja um pouco mais sobre minhas habilidades e tecnologias 
+            {t("skills.text")}
         </p>
 
         <div className={styles.grid}>
