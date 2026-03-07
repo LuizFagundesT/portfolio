@@ -1,14 +1,26 @@
 # 📝 Portfólio 
 
-Este repositório contém o código-fonte do meu portfólio profissional desenvolvido para apresentar minha trajetória, habilidades técnicas, projetos e formas de contato.
+Este repositório contém o código-fonte do projeto desenvolvido para a disciplina **Laboratório de Desenvolvimento de Software**, que consiste no desenvolvimento de um **portfólio profissional web**, criado para apresentar:
+
+- trajetória acadêmica
+- habilidades técnicas
+- projetos desenvolvidos
+- formas de contato
 
 O objetivo do sistema é demonstrar, de forma prática e organizada, a aplicação de tecnologias modernas no desenvolvimento de interfaces web e integração com backend, seguindo boas práticas de arquitetura, componentização e organização de código.
 
 ---
+# 🚧 Status do Projeto
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![React](https://img.shields.io/badge/React-Vite-blue)
+![i18n](https://img.shields.io/badge/i18n-internationalization-green)
+
+---
  🌐 Acesso ao Projeto
 
-🔗 **Site publicado:**   
-📂 **Repositório:** 
+🔗 **Site publicado: https://portifolio-six-swart.vercel.app/**   
+📂 **Repositório: https://github.com/LuizFagundesT/Portifolio.git** 
 
 ---
 
