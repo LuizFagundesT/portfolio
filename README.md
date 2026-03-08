@@ -143,7 +143,9 @@ CONTATO | <img width="360" height="600" alt="CONTATO" src="https://github.com/us
 
 ## 🎥 Demonstração da Aplicação
 
-<video src="docs/portifolio.mp4" controls width="800"></video>
+Clique no vídeo abaixo para assistir à demonstração do sistema.
+
+[▶️ Assistir Demonstração](my-portifolio/frontend/docs/portifolio.mp4)
 
 ---
 
