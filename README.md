@@ -153,15 +153,12 @@ https://github.com/user-attachments/assets/41464261-8f0c-490d-9499-6ec091138621
 ## 👥 Autores
 
 Este projeto foi desenvolvido pelos seguintes integrantes:
-```
 
-| 👤 Nome | 🖼️ Foto | 💻 GitHub |
+| 👤 Nome | 🖼️ Foto | 💻 GitHub | 💼 LinkedIn | 📧 Email |
 |-------|-------|-------|-------|-------|
-| **Caio Lima** | <div align="center"><img src="https://github.com/caiolima777.png" width="80px"></div> | <div align="center"><a href="https://github.com/caiolima777"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"></a></div> 
-| **Ian Nycolas** | <div align="center"><img src="https://github.com/IanNycolaspuc.png" width="80px"></div> | <div align="center"><a href="https://github.com/IanNycolaspuc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"></a></div> 
-| **Erick Guedes** | <div align="center"><img src="https://github.com/Erickguedesc.png" width="80px"></div> | <div align="center"><a href="https://github.com/Erickguedesc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"></a></div> 
-| **Luiz Fagundes** | <div align="center"><img src="https://github.com/LuizFagundesT.png" width="80px"></div> | <div align="center"><a href="https://github.com/LuizFagundesT"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"></a></div> 
-
-```
+| **Caio Lima** | <div align="center"><img src="https://github.com/caiolima777.png" width="80px"></div> | <div align="center"><a href="https://github.com/caiolima777">GitHub</a></div> | <div align="center"><a href="https://www.linkedin.com/in/caio-lima-leal-989bb9276/">LinkedIn</a></div> | <div align="center"><a href="mailto:cllima3753@gmail.com">Email</a></div> |
+| **Ian Nycolas** | <div align="center"><img src="https://github.com/IanNycolaspuc.png" width="80px"></div> | <div align="center"><a href="https://github.com/IanNycolaspuc">GitHub</a></div> | <div align="center"><a href="https://www.linkedin.com/in/ian-costa-8702b019b/">LinkedIn</a></div> | <div align="center"><a href="mailto:SEUEMAIL@gmail.com">Email</a></div> |
+| **Erick Guedes** | <div align="center"><img src="https://github.com/erickguedes.png" width="80px"></div> | <div align="center"><a href="https://github.com/erickguedes">GitHub</a></div> | <div align="center"><a href="https://www.linkedin.com/in/erick-de-carvalho-658148258/">LinkedIn</a></div> | <div align="center"><a href="mailto:SEUEMAIL@gmail.com">Email</a></div> |
+| **Luiz Fagundes** | <div align="center"><img src="https://github.com/LuizFagundesT.png" width="80px"></div> | <div align="center"><a href="https://github.com/LuizFagundesT">GitHub</a></div> | <div align="center"><a href="https://www.linkedin.com/in/luiz-gustavo-fagundes-teixeira-545225287/">LinkedIn</a></div> | <div align="center"><a href="mailto:SEUEMAIL@gmail.com">Email</a></div> |
 
 
