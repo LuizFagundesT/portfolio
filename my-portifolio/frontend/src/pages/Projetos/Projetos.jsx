@@ -9,12 +9,14 @@ import SpotifyPlayer from '../../components/SpotifyPlayer';
 import portfolioImg from "../../assets/gitPortifolio.gif";
 import readmeGit from "../../assets/readmeGit.gif";
 import emailEstoque from  "../../assets/emailEstoque.gif";
+import sensorfix from  "../../assets/sensor-fix.gif";
 
 
 const repoImages = {
   "Portifolio": portfolioImg,
   "LuizFagundesT" : readmeGit,
-  "alerta-deposito-incorreto": emailEstoque
+  "alerta-deposito-incorreto": emailEstoque,
+  "Sensor-fix-Ti2": sensorfix
   //"NomedoRepositorio" bisnaguinha,
 };
 
