@@ -73,16 +73,7 @@ Suporte para múltiplos idiomas utilizando **i18next**.
 
 ---
 
-### 🐍 Back-end
 
-| Tecnologia | Descrição |
-|------------|----------|
-| Python | Linguagem utilizada no backend |
-| FastAPI | Framework para construção de APIs REST |
-| Uvicorn | Servidor ASGI |
-| SMTP / API de Email | Serviço para envio de mensagens do formulário |
-
----
 
 ## 🏗 Arquitetura
 
